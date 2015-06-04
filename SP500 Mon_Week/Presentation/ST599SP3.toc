@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Graphs (1)}{2}{0}{1}
+\beamer@sectionintoc {2}{Methods}{5}{0}{2}
+\beamer@sectionintoc {3}{Tables}{7}{0}{3}
+\beamer@sectionintoc {4}{Graphs (2)}{9}{0}{4}
